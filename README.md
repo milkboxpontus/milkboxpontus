@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @milkboxpontus
+- 👀 I’m interested in C#, Node.js, Genetic Programming
+- 🌱 I’m currently learning AWS, Lambdas, Github Actions + Octopus Deploy
